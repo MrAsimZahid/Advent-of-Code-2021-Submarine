@@ -26,7 +26,7 @@ pairs = get_pairs(data)
 
 # polymer_template = "NNCB"
 
-for count in range(40):
+for count in range(10):
     print(count)
     append_element = []
     for each in range(len(polymer_template)):
